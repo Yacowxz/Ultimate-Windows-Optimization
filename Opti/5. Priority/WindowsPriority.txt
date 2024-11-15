@@ -1,0 +1,2 @@
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl
+2 default           2a FPS,        16 smooth,               26 responsive,                        29 +responsive+
